@@ -1,8 +1,7 @@
 # rageserver
 Open source rage mp role play server
 
-Hello!
-All about this server you can read at:
+Original post.
 https://rage.mp/forums/topic/1559-open-source-role-play-server/
 
 If something is not clear, join our Discord server and we will help.
