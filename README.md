@@ -7,7 +7,7 @@ https://rage.mp/forums/topic/1559-open-source-role-play-server/
 If something is not clear, join our Discord server and we will help.
 https://discord.gg/B5QENFVWwK
 
-# NOTE! all mysql queries here is unsecure! Read sMailer.js for more info
+# All mysql queries here is unsecure! Read sMailer.js for more info!
 
 # Installation guide:
 1. Install Ragemp server.
